@@ -40,7 +40,7 @@
     "license": "GPL-3.0-or-later",
     "dependencies": {
         "@adiwajshing/baileys": "npm:@whiskeysockets/baileys",
-        "@bochilteam/scraper": "github:DK3MK/scraper",
+        "@bochilteam/scraper": "^4.2.4",
         "awesome-phonenumber": "^3.4.0",
         "acrcloud": "^1.4.0",
         "@shineiichijo/marika": "^2.0.6",
