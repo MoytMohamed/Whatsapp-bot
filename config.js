@@ -5,12 +5,12 @@ import { fileURLToPath } from 'url'
 //Number of owners
 global.owner = [
   ['201206178781', '𝐌 𝐎 𝐘 𝐓', true],
-  ['967780835667', 'Joker Sensi', true],
+  ['', '', true],
 ] 
 
 // Mods
-global.mods = ['201206178781', '201223089789'] 
-global.prems = ['201206178781', '201223089789']
+global.mods = ['201206178781', ''] 
+global.prems = ['201206178781', '']
 
 // Sticker WM
 global.ownername = '𝐌 𝐎 𝐘 𝐓'
